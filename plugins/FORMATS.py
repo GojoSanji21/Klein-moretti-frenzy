@@ -2,8 +2,8 @@
 
 #text formatting....
 
-on_pic = "https://ibb.co/MDrBFxQ3"
-off_pic = "https://ibb.co/MDrBFxQ3"
+on_pic = "https://graph.org/file/4238f5a1b32c0f1f37b34-e7e3878b45ebbb4da4.jpg"
+off_pic = "https://graph.org/file/109af590f1cea9abe3c29-ad5aebb0ac9b80a499.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo ×͜×</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Frenzy>𝐌ᴜʟᴛɪᴠᴇʀsᴇ ʜɪɴᴅɪ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Frenzy>𝐎ɴɢᴏɪɴɢ 𝐌ᴜʟᴛɪᴠᴇʀsᴇ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/Multiverse_Anime_Gc>𝐌ᴜʟᴛɪᴠᴇʀsᴇ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Urr_Kakashiii>𝐊ᴀᴋᴀsʜɪ 𝐒ᴇɴᴘᴀɪ ֟፝</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo ×͜×</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Frenzy>ᴀɴɪᴍᴇ ʜɪɴᴅɪ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Frenzy>𝐎ɴɢᴏɪɴɢ 𝐌ᴜʟᴛɪᴠᴇʀsᴇ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/Multiverse_Anime_Gc>𝐌ᴜʟᴛɪᴠᴇʀsᴇ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Lelouch_The_Demon_Emperor>𝐊ᴀᴋᴀsʜɪ 𝐒ᴇɴᴘᴀɪ ֟፝</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
